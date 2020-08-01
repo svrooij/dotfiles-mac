@@ -1,0 +1,13 @@
+tap "homebrew/cask"
+tap "homebrew/cask-drivers"
+
+cask "1password"
+cask "docker"
+cask "dotnet-sdk"
+cask "firefox"
+cask "google-chrome"
+cask "microsoft-edge"
+cask "microsoft-office"
+cask "postman"
+cask "visual-studio-code"
+cask "vlc"
